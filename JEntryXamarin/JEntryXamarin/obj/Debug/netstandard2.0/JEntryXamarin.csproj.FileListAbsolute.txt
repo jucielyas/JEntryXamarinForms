@@ -1,0 +1,12 @@
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\bin\Debug\netstandard2.0\JEntryXamarin.deps.json
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\bin\Debug\netstandard2.0\JEntryXamarin.dll
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\bin\Debug\netstandard2.0\JEntryXamarin.pdb
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\JEntryXamarin.csprojAssemblyReference.cache
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\JEntryXamarin.csproj.CoreCompileInputs.cache
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\JEntryXamarin.AssemblyInfoInputs.cache
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\JEntryXamarin.AssemblyInfo.cs
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\JEntryXamarin.dll
+F:\Repositorios\Projetos\JEntryXamarin\JEntryXamarin\JEntryXamarin\obj\Debug\netstandard2.0\JEntryXamarin.pdb
